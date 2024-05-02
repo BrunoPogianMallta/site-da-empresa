@@ -1,0 +1,37 @@
+.technologies-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.technologies-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-bottom: 50px;
+}
+
+.technologies-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.technology-item {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.technology-image {
+  width: 100px; /* Tamanho desejado para a imagem */
+  height: 100px; /* Tamanho desejado para a imagem */
+}
+
+.technology-name {
+  margin-top: 10px;
+  font-weight: bold;
+}
